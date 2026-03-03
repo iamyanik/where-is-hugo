@@ -5,3 +5,9 @@ theme = "hugo-coder"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params]
+author = "Yanik"
+description = "I'm just fucking around and finding out"
+keywords = "blog,developer,personal"
+info = ["Junior Network Engineer", "professional cutie"]
