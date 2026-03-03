@@ -4,3 +4,10 @@
 [submodule "yanik/themes/PaperMod"]
 	path = yanik/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "yanik/themes/blowfish"]
+	path = yanik/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "yanik/themes/introduction"]
+	path = yanik/themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
