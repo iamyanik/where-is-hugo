@@ -1,7 +1,7 @@
 baseURL = 'https://iamyanik.github.io/where-is-hugo/'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
-theme = "introduction"
+theme = "hugo-coder"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

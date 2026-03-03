@@ -11,3 +11,6 @@
 [submodule "yanik/themes/introduction"]
 	path = yanik/themes/introduction
 	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "yanik/themes/hugo-coder"]
+	path = yanik/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
