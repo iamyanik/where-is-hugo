@@ -14,3 +14,7 @@
 [submodule "yanik/themes/hugo-coder"]
 	path = yanik/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "site/themes/blowfish"]
+	path = site/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
