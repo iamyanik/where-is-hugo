@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: iamyanik.github.io/where-is-hugo/sitemap.xml
