@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Yanik is typing"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[[params.author.links]]
+github = "https://github.com/iamyanik/"
+
+[[params.author.links]]
+instagram = "https://www.instagram.com/yanik.on.film/"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/yanik-howald-8568b81b7/"
+
+["params.author"]
+name = "Yanik Howald"
+headline = 'Junior Network Engineer by day, "Hacker" at night!'
